@@ -33,7 +33,7 @@ final List<MuseumVisitGroupEntity> museumVisitMock = [
     responsible: 'Ana Costa',
     quantity: 4,
     scheduledTime: DateTime(2026, 5, 11, 15, 30),
-    status: MuseumVisitStatus.inside,
+    status: MuseumVisitStatus.completed,
   ),
   MuseumVisitGroupEntity(
     id: 5,
