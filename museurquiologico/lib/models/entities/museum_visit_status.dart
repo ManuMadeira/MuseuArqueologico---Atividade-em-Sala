@@ -1,0 +1,4 @@
+enum MuseumVisitStatus {
+  waiting,
+  inside,
+}
